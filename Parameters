@@ -1,0 +1,20 @@
+particle
+fuel    0.0380
+buffer  0.0400
+PyC1     0.0435
+SiC     0.0470
+PyC2     0.0490
+cell
+fuel  0.600
+gap  0.606
+clad 0.691
+water  0.824
+material
+92235.03c   2.2519E-03
+92238.03c   3.1984E-02
+ 7014.03c   3.4236E-02
+buffer  5.2675E-2
+pyc   9.5317E-2
+SiC_SiC   4.7859e-2
+Rou_h2o  1.0
+
